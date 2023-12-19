@@ -1,0 +1,45 @@
+header img{
+    height: 70px;
+}
+header h1{
+    color:#666666;
+    text-align: center;
+}
+.p1{
+    font-family:sans-serif;
+}
+header{
+    border: 6px solid pink;
+    padding: 3px;
+    margin: 2px;
+    border-radius: 2%;
+}
+.table1{
+    border:1px solid #FA8072;
+}
+h2{
+    background-color:lightpink;
+    color:black;
+    text-align:center;
+}
+.table2{
+    border:3px solid black;
+    border-radius: 5%;
+}
+td img{
+    height: 50px;
+}
+.tr{
+    border:2px solid #F08080;
+    font-family:  'Brush Script MT', cursive;
+}
+footer{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #F08080;
+}
+p, td{
+    font-size: 20px;
+}
